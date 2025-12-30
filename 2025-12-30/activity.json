@@ -2,9 +2,9 @@
   "date": "2025-12-30",
   "projects": {
     "budget_front_nest": {
-      "totalLinesAdded": 1622,
-      "totalLinesRemoved": 5,
-      "totalActiveTime": 16,
+      "totalLinesAdded": 1623,
+      "totalLinesRemoved": 6,
+      "totalActiveTime": 18,
       "files": {
         "/Users/galymsakitzhan/Documents/GitHub/budget_front_nest/src/styles.css": [
           {
@@ -149,6 +149,34 @@
             "fileType": ".css",
             "linesAdded": 1,
             "linesRemoved": 0,
+            "projectName": "budget_front_nest",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-12-30T06:02:50.526Z",
+            "fileName": "/Users/galymsakitzhan/Documents/GitHub/budget_front_nest/src/app/profile/profile.component.css",
+            "fileType": ".css",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "budget_front_nest",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-12-30T06:03:34.487Z",
+            "fileName": "/Users/galymsakitzhan/Documents/GitHub/budget_front_nest/src/app/profile/profile.component.css",
+            "fileType": ".css",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "budget_front_nest",
             "content": {
               "added": [],
