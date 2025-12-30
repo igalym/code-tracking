@@ -2,7 +2,7 @@
   "date": "2025-12-30",
   "projects": {
     "budget_front_nest": {
-      "totalLinesAdded": 1623,
+      "totalLinesAdded": 2102,
       "totalLinesRemoved": 6,
       "totalActiveTime": 18,
       "files": {
@@ -214,6 +214,22 @@
             },
             "duration": 1,
             "language": "html"
+          }
+        ],
+        "/Users/galymsakitzhan/Documents/GitHub/budget_front_nest/src/app/dashboard/dashboard.component.css": [
+          {
+            "timestamp": "2025-12-30T06:15:21.965Z",
+            "fileName": "/Users/galymsakitzhan/Documents/GitHub/budget_front_nest/src/app/dashboard/dashboard.component.css",
+            "fileType": ".css",
+            "linesAdded": 479,
+            "linesRemoved": 0,
+            "projectName": "budget_front_nest",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "css"
           }
         ]
       },
