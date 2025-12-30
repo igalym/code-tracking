@@ -2,9 +2,9 @@
   "date": "2025-12-30",
   "projects": {
     "budget_front_nest": {
-      "totalLinesAdded": 3316,
+      "totalLinesAdded": 3705,
       "totalLinesRemoved": 6,
-      "totalActiveTime": 18,
+      "totalActiveTime": 19,
       "files": {
         "/Users/galymsakitzhan/Documents/GitHub/budget_front_nest/src/styles.css": [
           {
@@ -278,6 +278,20 @@
             },
             "duration": 0,
             "language": "css"
+          },
+          {
+            "timestamp": "2025-12-30T09:41:49.817Z",
+            "fileName": "/Users/galymsakitzhan/Documents/GitHub/budget_front_nest/src/app/dashboard/docs/credit-contract/credit-contract-element/credit-contract-element.component.css",
+            "fileType": ".css",
+            "linesAdded": 36,
+            "linesRemoved": 0,
+            "projectName": "budget_front_nest",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "css"
           }
         ],
         "/Users/galymsakitzhan/Documents/GitHub/budget_front_nest/src/app/dashboard/docs/credit-contract/credit-contract-element/credit-contract-element.component.ts": [
@@ -294,6 +308,22 @@
             },
             "duration": 0,
             "language": "ts"
+          }
+        ],
+        "/Users/galymsakitzhan/Documents/GitHub/budget_front_nest/src/app/dashboard/docs/credit-contract/credit-contract-element/credit-contract-element.component.html": [
+          {
+            "timestamp": "2025-12-30T09:41:56.884Z",
+            "fileName": "/Users/galymsakitzhan/Documents/GitHub/budget_front_nest/src/app/dashboard/docs/credit-contract/credit-contract-element/credit-contract-element.component.html",
+            "fileType": ".html",
+            "linesAdded": 353,
+            "linesRemoved": 0,
+            "projectName": "budget_front_nest",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
           }
         ]
       },
