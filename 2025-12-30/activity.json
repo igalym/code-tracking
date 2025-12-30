@@ -2,7 +2,7 @@
   "date": "2025-12-30",
   "projects": {
     "budget_front_nest": {
-      "totalLinesAdded": 4744,
+      "totalLinesAdded": 4909,
       "totalLinesRemoved": 8,
       "totalActiveTime": 34,
       "files": {
@@ -436,6 +436,22 @@
             },
             "duration": 1,
             "language": "html"
+          }
+        ],
+        "/Users/galymsakitzhan/Documents/GitHub/budget_front_nest/src/app/dashboard/docs/credit-contract/credit-contract.service.ts": [
+          {
+            "timestamp": "2025-12-30T11:49:55.718Z",
+            "fileName": "/Users/galymsakitzhan/Documents/GitHub/budget_front_nest/src/app/dashboard/docs/credit-contract/credit-contract.service.ts",
+            "fileType": ".ts",
+            "linesAdded": 165,
+            "linesRemoved": 0,
+            "projectName": "budget_front_nest",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
           }
         ]
       },
