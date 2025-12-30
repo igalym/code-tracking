@@ -2,9 +2,9 @@
   "date": "2025-12-30",
   "projects": {
     "budget_front_nest": {
-      "totalLinesAdded": 1496,
+      "totalLinesAdded": 1622,
       "totalLinesRemoved": 5,
-      "totalActiveTime": 13,
+      "totalActiveTime": 16,
       "files": {
         "/Users/galymsakitzhan/Documents/GitHub/budget_front_nest/src/styles.css": [
           {
@@ -128,6 +128,64 @@
             },
             "duration": 4,
             "language": "css"
+          },
+          {
+            "timestamp": "2025-12-30T06:02:24.079Z",
+            "fileName": "/Users/galymsakitzhan/Documents/GitHub/budget_front_nest/src/app/profile/profile.component.css",
+            "fileType": ".css",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "budget_front_nest",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2025-12-30T06:02:31.153Z",
+            "fileName": "/Users/galymsakitzhan/Documents/GitHub/budget_front_nest/src/app/profile/profile.component.css",
+            "fileType": ".css",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "budget_front_nest",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          }
+        ],
+        "/Users/galymsakitzhan/Documents/GitHub/budget_front_nest/src/app/profile/profile.component.html": [
+          {
+            "timestamp": "2025-12-30T06:01:36.376Z",
+            "fileName": "/Users/galymsakitzhan/Documents/GitHub/budget_front_nest/src/app/profile/profile.component.html",
+            "fileType": ".html",
+            "linesAdded": 116,
+            "linesRemoved": 0,
+            "projectName": "budget_front_nest",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "html"
+          },
+          {
+            "timestamp": "2025-12-30T06:01:52.453Z",
+            "fileName": "/Users/galymsakitzhan/Documents/GitHub/budget_front_nest/src/app/profile/profile.component.html",
+            "fileType": ".html",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "budget_front_nest",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
           }
         ]
       },
