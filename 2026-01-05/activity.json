@@ -49,9 +49,9 @@
       "averageChangeSize": 7
     },
     "budget-credit_back": {
-      "totalLinesAdded": 27,
+      "totalLinesAdded": 32,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 0,
+      "totalActiveTime": 6,
       "files": {
         "/Users/galymsakitzhan/Documents/GitHub/BUDJET_BACK/budget-credit_back/.vscode/launch.json": [
           {
@@ -67,6 +67,36 @@
             },
             "duration": 0,
             "language": "json"
+          }
+        ],
+        "/Users/galymsakitzhan/Documents/GitHub/BUDJET_BACK/budget-credit_back/.env": [
+          {
+            "timestamp": "2026-01-05T09:45:07.769Z",
+            "fileName": "/Users/galymsakitzhan/Documents/GitHub/BUDJET_BACK/budget-credit_back/.env",
+            "fileType": "unknown",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "budget-credit_back",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2026-01-05T09:45:13.567Z",
+            "fileName": "/Users/galymsakitzhan/Documents/GitHub/BUDJET_BACK/budget-credit_back/.env",
+            "fileType": "unknown",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "budget-credit_back",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
           }
         ]
       },
