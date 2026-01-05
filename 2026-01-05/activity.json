@@ -49,7 +49,7 @@
       "averageChangeSize": 7
     },
     "budget-credit_back": {
-      "totalLinesAdded": 72,
+      "totalLinesAdded": 73,
       "totalLinesRemoved": 0,
       "totalActiveTime": 9,
       "files": {
@@ -112,6 +112,20 @@
               "removed": []
             },
             "duration": 3,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-01-05T09:55:16.183Z",
+            "fileName": "/Users/galymsakitzhan/Documents/GitHub/BUDJET_BACK/budget-credit_back/src/main.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "budget-credit_back",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "ts"
           }
         ]
