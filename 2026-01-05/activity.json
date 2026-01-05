@@ -47,6 +47,39 @@
         "/Users/galymsakitzhan/Documents/GitHub/budget_front_nest/src/environments/environment.ts"
       ],
       "averageChangeSize": 7
+    },
+    "budget-credit_back": {
+      "totalLinesAdded": 27,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/galymsakitzhan/Documents/GitHub/BUDJET_BACK/budget-credit_back/.vscode/launch.json": [
+          {
+            "timestamp": "2026-01-05T09:40:28.958Z",
+            "fileName": "/Users/galymsakitzhan/Documents/GitHub/BUDJET_BACK/budget-credit_back/.vscode/launch.json",
+            "fileType": ".json",
+            "linesAdded": 27,
+            "linesRemoved": 0,
+            "projectName": "budget-credit_back",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 0
+      },
+      "changeFrequency": {
+        "14": 0
+      },
+      "topFiles": [
+        "/Users/galymsakitzhan/Documents/GitHub/BUDJET_BACK/budget-credit_back/.vscode/launch.json"
+      ],
+      "averageChangeSize": 27
     }
   },
   "totalActiveTime": 1,
