@@ -1,0 +1,61 @@
+{
+  "date": "2026-01-05",
+  "projects": {
+    "budget_front_nest": {
+      "totalLinesAdded": 14,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "/Users/galymsakitzhan/Documents/GitHub/budget_front_nest/src/environments/environment.ts": [
+          {
+            "timestamp": "2026-01-05T09:30:56.540Z",
+            "fileName": "/Users/galymsakitzhan/Documents/GitHub/budget_front_nest/src/environments/environment.ts",
+            "fileType": ".ts",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "budget_front_nest",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-01-05T09:31:34.605Z",
+            "fileName": "/Users/galymsakitzhan/Documents/GitHub/budget_front_nest/src/environments/environment.ts",
+            "fileType": ".ts",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "budget_front_nest",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ]
+      },
+      "languageStats": {
+        "ts": 1
+      },
+      "changeFrequency": {
+        "14": 1
+      },
+      "topFiles": [
+        "/Users/galymsakitzhan/Documents/GitHub/budget_front_nest/src/environments/environment.ts"
+      ],
+      "averageChangeSize": 7
+    }
+  },
+  "totalActiveTime": 1,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    14
+  ],
+  "mostUsedLanguages": [
+    "ts"
+  ]
+}
