@@ -1,0 +1,47 @@
+{
+  "date": "2026-01-06",
+  "projects": {
+    "budget_front_nest": {
+      "totalLinesAdded": 5,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/galymsakitzhan/Documents/GitHub/budget_front_nest/src/app/dashboard/docs/credit-contract/credit-contract-element/credit-contract-element.component.css": [
+          {
+            "timestamp": "2026-01-06T05:01:18.068Z",
+            "fileName": "/Users/galymsakitzhan/Documents/GitHub/budget_front_nest/src/app/dashboard/docs/credit-contract/credit-contract-element/credit-contract-element.component.css",
+            "fileType": ".css",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "budget_front_nest",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "css"
+          }
+        ]
+      },
+      "languageStats": {
+        "css": 0
+      },
+      "changeFrequency": {
+        "10": 0
+      },
+      "topFiles": [
+        "/Users/galymsakitzhan/Documents/GitHub/budget_front_nest/src/app/dashboard/docs/credit-contract/credit-contract-element/credit-contract-element.component.css"
+      ],
+      "averageChangeSize": 5
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    10
+  ],
+  "mostUsedLanguages": [
+    "css"
+  ]
+}
