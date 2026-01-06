@@ -2,9 +2,9 @@
   "date": "2026-01-06",
   "projects": {
     "budget_front_nest": {
-      "totalLinesAdded": 90,
-      "totalLinesRemoved": 1,
-      "totalActiveTime": 12,
+      "totalLinesAdded": 121,
+      "totalLinesRemoved": 15,
+      "totalActiveTime": 21,
       "files": {
         "/Users/galymsakitzhan/Documents/GitHub/budget_front_nest/src/app/dashboard/docs/credit-contract/credit-contract-element/credit-contract-element.component.css": [
           {
@@ -90,6 +90,34 @@
             },
             "duration": 1,
             "language": "css"
+          },
+          {
+            "timestamp": "2026-01-06T05:55:43.046Z",
+            "fileName": "/Users/galymsakitzhan/Documents/GitHub/budget_front_nest/src/app/dashboard/docs/credit-contract/credit-contract-element/credit-contract-element.component.css",
+            "fileType": ".css",
+            "linesAdded": 31,
+            "linesRemoved": 0,
+            "projectName": "budget_front_nest",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2026-01-06T05:58:53.877Z",
+            "fileName": "/Users/galymsakitzhan/Documents/GitHub/budget_front_nest/src/app/dashboard/docs/credit-contract/credit-contract-element/credit-contract-element.component.css",
+            "fileType": ".css",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "budget_front_nest",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
           }
         ],
         "/Users/galymsakitzhan/Documents/GitHub/budget_front_nest/src/app/dashboard/docs/credit-contract/payment-delete-confirm/payment-delete-confirm.component.ts": [
@@ -150,6 +178,20 @@
             },
             "duration": 1,
             "language": "html"
+          },
+          {
+            "timestamp": "2026-01-06T05:58:21.978Z",
+            "fileName": "/Users/galymsakitzhan/Documents/GitHub/budget_front_nest/src/app/dashboard/docs/credit-contract/payment-delete-confirm/payment-delete-confirm.component.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "budget_front_nest",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "html"
           }
         ],
         "/Users/galymsakitzhan/Documents/GitHub/budget_front_nest/src/app/dashboard/docs/credit-contract/payment-delete-confirm/payment-delete-confirm.component.css": [
@@ -173,6 +215,34 @@
             "fileType": ".css",
             "linesAdded": 35,
             "linesRemoved": 0,
+            "projectName": "budget_front_nest",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
+          },
+          {
+            "timestamp": "2026-01-06T05:55:24.961Z",
+            "fileName": "/Users/galymsakitzhan/Documents/GitHub/budget_front_nest/src/app/dashboard/docs/credit-contract/payment-delete-confirm/payment-delete-confirm.component.css",
+            "fileType": ".css",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "budget_front_nest",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "css"
+          },
+          {
+            "timestamp": "2026-01-06T05:58:45.071Z",
+            "fileName": "/Users/galymsakitzhan/Documents/GitHub/budget_front_nest/src/app/dashboard/docs/credit-contract/payment-delete-confirm/payment-delete-confirm.component.css",
+            "fileType": ".css",
+            "linesAdded": 0,
+            "linesRemoved": 10,
             "projectName": "budget_front_nest",
             "content": {
               "added": [],
