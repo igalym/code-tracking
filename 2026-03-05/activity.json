@@ -1,0 +1,80 @@
+{
+  "date": "2026-03-05",
+  "projects": {
+    "Finance_Front": {
+      "totalLinesAdded": 693,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 2,
+      "files": {
+        "/Users/galymsakitzhan/Documents/GitHub/Finance_Front/src/app/documents/act/act-detail/act-detail.component.ts": [
+          {
+            "timestamp": "2026-03-05T10:30:06.769Z",
+            "fileName": "/Users/galymsakitzhan/Documents/GitHub/Finance_Front/src/app/documents/act/act-detail/act-detail.component.ts",
+            "fileType": ".ts",
+            "linesAdded": 441,
+            "linesRemoved": 0,
+            "projectName": "Finance_Front",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "/Users/galymsakitzhan/Documents/GitHub/Finance_Front/src/app/documents/act/act-detail/act-detail.component.html": [
+          {
+            "timestamp": "2026-03-05T10:30:25.850Z",
+            "fileName": "/Users/galymsakitzhan/Documents/GitHub/Finance_Front/src/app/documents/act/act-detail/act-detail.component.html",
+            "fileType": ".html",
+            "linesAdded": 247,
+            "linesRemoved": 0,
+            "projectName": "Finance_Front",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2026-03-05T10:30:25.948Z",
+            "fileName": "/Users/galymsakitzhan/Documents/GitHub/Finance_Front/src/app/documents/act/act-detail/act-detail.component.html",
+            "fileType": ".html",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "Finance_Front",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          }
+        ]
+      },
+      "languageStats": {
+        "ts": 0,
+        "html": 2
+      },
+      "changeFrequency": {
+        "15": 2
+      },
+      "topFiles": [
+        "/Users/galymsakitzhan/Documents/GitHub/Finance_Front/src/app/documents/act/act-detail/act-detail.component.html",
+        "/Users/galymsakitzhan/Documents/GitHub/Finance_Front/src/app/documents/act/act-detail/act-detail.component.ts"
+      ],
+      "averageChangeSize": 231
+    }
+  },
+  "totalActiveTime": 2,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    15
+  ],
+  "mostUsedLanguages": [
+    "html",
+    "ts"
+  ]
+}
