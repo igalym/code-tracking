@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 261                                          |
+| **Lines Added** (➕)   | 274                                          |
 | **Lines Removed** (➖) | 13                                        |
-| **Net Change** (↕)    | 248                |
-| **Active Time** (⌚)   | 57 minutes |
+| **Net Change** (↕)    | 261                |
+| **Active Time** (⌚)   | 59 minutes |
 
 
 ## Modified Files
@@ -20,6 +20,8 @@
 - **keybindings.json** (+23, -0)
 - **main.ts** (+20, -0)
 - **package.json** (+79, -0)
+- **create-type_ticket.dto.ts** (+2, -0)
+- **update-type_ticket.dto.ts** (+11, -0)
 
 ## Visualizations
 
@@ -28,7 +30,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 172
+".ts" : 185
 ".json" : 102
 ```
 
@@ -40,8 +42,8 @@ title Coding activity by hour (count of changes)
 "14h" : 6
 "15h" : 7
 "16h" : 19
-"17h" : 6
+"17h" : 9
 ```
 
 
-> **Last Updated:** 30.03.2026, 17:29:59
+> **Last Updated:** 30.03.2026, 17:39:59
