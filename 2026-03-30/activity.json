@@ -3,7 +3,7 @@
   "projects": {
     "cinema": {
       "totalLinesAdded": 34,
-      "totalLinesRemoved": 0,
+      "totalLinesRemoved": 2,
       "totalActiveTime": 6,
       "files": {
         "/Users/galymsakitzhan/Desktop/cinema/cinema-backend/src/app.module.ts": [
@@ -47,6 +47,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-03-30T09:46:44.237Z",
+            "fileName": "/Users/galymsakitzhan/Desktop/cinema/cinema-backend/src/app.module.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "cinema",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "ts"
           }
         ],
