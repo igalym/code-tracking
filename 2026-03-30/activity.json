@@ -2,9 +2,9 @@
   "date": "2026-03-30",
   "projects": {
     "cinema": {
-      "totalLinesAdded": 309,
-      "totalLinesRemoved": 13,
-      "totalActiveTime": 59,
+      "totalLinesAdded": 356,
+      "totalLinesRemoved": 25,
+      "totalActiveTime": 63,
       "files": {
         "/Users/galymsakitzhan/Desktop/cinema/cinema-backend/src/app.module.ts": [
           {
@@ -334,6 +334,34 @@
             },
             "duration": 2,
             "language": "ts"
+          },
+          {
+            "timestamp": "2026-03-30T18:16:13.647Z",
+            "fileName": "/Users/galymsakitzhan/Desktop/cinema/cinema-backend/src/type_ticket/entities/type_ticket.entity.ts",
+            "fileType": ".ts",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "cinema",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-03-30T18:16:14.732Z",
+            "fileName": "/Users/galymsakitzhan/Desktop/cinema/cinema-backend/src/type_ticket/entities/type_ticket.entity.ts",
+            "fileType": ".ts",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "cinema",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ],
         "/Users/galymsakitzhan/Desktop/cinema/cinema-backend/src/schedule/entities/schedule.entity.ts": [
@@ -615,6 +643,50 @@
               "removed": []
             },
             "duration": 0,
+            "language": "ts"
+          }
+        ],
+        "/Users/galymsakitzhan/Desktop/cinema/cinema-backend/src/type_ticket/type_ticket.service.ts": [
+          {
+            "timestamp": "2026-03-30T18:17:04.889Z",
+            "fileName": "/Users/galymsakitzhan/Desktop/cinema/cinema-backend/src/type_ticket/type_ticket.service.ts",
+            "fileType": ".ts",
+            "linesAdded": 27,
+            "linesRemoved": 0,
+            "projectName": "cinema",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-03-30T18:17:05.834Z",
+            "fileName": "/Users/galymsakitzhan/Desktop/cinema/cinema-backend/src/type_ticket/type_ticket.service.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 12,
+            "projectName": "cinema",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-03-30T18:17:42.107Z",
+            "fileName": "/Users/galymsakitzhan/Desktop/cinema/cinema-backend/src/type_ticket/type_ticket.service.ts",
+            "fileType": ".ts",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "cinema",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "ts"
           }
         ]
