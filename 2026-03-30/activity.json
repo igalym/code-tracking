@@ -2,7 +2,7 @@
   "date": "2026-03-30",
   "projects": {
     "cinema": {
-      "totalLinesAdded": 274,
+      "totalLinesAdded": 309,
       "totalLinesRemoved": 13,
       "totalActiveTime": 59,
       "files": {
@@ -599,6 +599,22 @@
               "removed": []
             },
             "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/galymsakitzhan/Desktop/cinema/cinema-backend/src/type_ticket/type_ticket.controller.ts": [
+          {
+            "timestamp": "2026-03-30T12:46:04.020Z",
+            "fileName": "/Users/galymsakitzhan/Desktop/cinema/cinema-backend/src/type_ticket/type_ticket.controller.ts",
+            "fileType": ".ts",
+            "linesAdded": 35,
+            "linesRemoved": 0,
+            "projectName": "cinema",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "ts"
           }
         ]
