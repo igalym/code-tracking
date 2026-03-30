@@ -4,9 +4,9 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 120                                          |
+| **Lines Added** (➕)   | 139                                          |
 | **Lines Removed** (➖) | 13                                        |
-| **Net Change** (↕)    | 107                |
+| **Net Change** (↕)    | 126                |
 | **Active Time** (⌚)   | 48 minutes |
 
 
@@ -15,7 +15,7 @@
 - **seat.entity.ts** (+10, -0)
 - **film.entity.ts** (+25, -9)
 - **type_ticket.entity.ts** (+11, -0)
-- **schedule.entity.ts** (+19, -0)
+- **schedule.entity.ts** (+38, -0)
 - **hall.entity.ts** (+12, -0)
 
 ## Visualizations
@@ -25,7 +25,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 133
+".ts" : 152
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -35,8 +35,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "14h" : 6
 "15h" : 7
-"16h" : 18
+"16h" : 19
 ```
 
 
-> **Last Updated:** 30.03.2026, 16:51:24
+> **Last Updated:** 30.03.2026, 16:59:57
