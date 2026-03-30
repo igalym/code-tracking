@@ -1,0 +1,47 @@
+{
+  "date": "2026-03-30",
+  "projects": {
+    "cinema": {
+      "totalLinesAdded": 11,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/galymsakitzhan/Desktop/cinema/cinema-backend/src/app.module.ts": [
+          {
+            "timestamp": "2026-03-30T09:36:22.809Z",
+            "fileName": "/Users/galymsakitzhan/Desktop/cinema/cinema-backend/src/app.module.ts",
+            "fileType": ".ts",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "cinema",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          }
+        ]
+      },
+      "languageStats": {
+        "ts": 0
+      },
+      "changeFrequency": {
+        "14": 0
+      },
+      "topFiles": [
+        "/Users/galymsakitzhan/Desktop/cinema/cinema-backend/src/app.module.ts"
+      ],
+      "averageChangeSize": 11
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    14
+  ],
+  "mostUsedLanguages": [
+    "ts"
+  ]
+}
