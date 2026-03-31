@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 92                                          |
+| **Lines Added** (➕)   | 105                                          |
 | **Lines Removed** (➖) | 3                                        |
-| **Net Change** (↕)    | 89                |
-| **Active Time** (⌚)   | 14 minutes |
+| **Net Change** (↕)    | 102                |
+| **Active Time** (⌚)   | 22 minutes |
 
 
 ## Modified Files
@@ -17,6 +17,7 @@
 - **schedule.controller.ts** (+35, -0)
 - **schedule.service.ts** (+27, -0)
 - **film.entity.ts** (+4, -0)
+- **create-schedule.dto.ts** (+13, -0)
 
 ## Visualizations
 
@@ -25,7 +26,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 95
+".ts" : 108
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -34,8 +35,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "10h" : 7
-"11h" : 4
+"11h" : 6
 ```
 
 
-> **Last Updated:** 31.03.2026, 11:27:58
+> **Last Updated:** 31.03.2026, 11:32:58
