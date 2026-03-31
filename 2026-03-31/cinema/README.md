@@ -4,9 +4,9 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 347                                          |
+| **Lines Added** (➕)   | 355                                          |
 | **Lines Removed** (➖) | 27                                        |
-| **Net Change** (↕)    | 320                |
+| **Net Change** (↕)    | 328                |
 | **Active Time** (⌚)   | 72 minutes |
 
 
@@ -28,6 +28,7 @@
 - **create-hall.dto.ts** (+8, -1)
 - **update-hall.dto.ts** (+10, -0)
 - **update-film.dto.ts** (+15, -0)
+- **schedule.entity.ts** (+8, -0)
 
 ## Visualizations
 
@@ -36,7 +37,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 374
+".ts" : 382
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -48,7 +49,8 @@ title Coding activity by hour (count of changes)
 "11h" : 11
 "12h" : 16
 "14h" : 13
+"15h" : 1
 ```
 
 
-> **Last Updated:** 31.03.2026, 14:44:07
+> **Last Updated:** 31.03.2026, 15:09:07
