@@ -2,9 +2,9 @@
   "date": "2026-03-31",
   "projects": {
     "cinema": {
-      "totalLinesAdded": 195,
-      "totalLinesRemoved": 4,
-      "totalActiveTime": 28,
+      "totalLinesAdded": 214,
+      "totalLinesRemoved": 8,
+      "totalActiveTime": 31,
       "files": {
         "/Users/galymsakitzhan/Desktop/cinema/cinema-backend/src/films/films.module.ts": [
           {
@@ -275,6 +275,50 @@
               "removed": []
             },
             "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-03-31T07:01:42.086Z",
+            "fileName": "/Users/galymsakitzhan/Desktop/cinema/cinema-backend/src/type_ticket/type_ticket.controller.ts",
+            "fileType": ".ts",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "cinema",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-03-31T07:01:58.874Z",
+            "fileName": "/Users/galymsakitzhan/Desktop/cinema/cinema-backend/src/type_ticket/type_ticket.controller.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "cinema",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/galymsakitzhan/Desktop/cinema/cinema-backend/src/type_ticket/type_ticket.service.ts": [
+          {
+            "timestamp": "2026-03-31T07:00:15.780Z",
+            "fileName": "/Users/galymsakitzhan/Desktop/cinema/cinema-backend/src/type_ticket/type_ticket.service.ts",
+            "fileType": ".ts",
+            "linesAdded": 13,
+            "linesRemoved": 0,
+            "projectName": "cinema",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "ts"
           }
         ]
