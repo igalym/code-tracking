@@ -3,8 +3,8 @@
   "projects": {
     "cinema": {
       "totalLinesAdded": 376,
-      "totalLinesRemoved": 32,
-      "totalActiveTime": 76,
+      "totalLinesRemoved": 49,
+      "totalActiveTime": 81,
       "files": {
         "/Users/galymsakitzhan/Desktop/cinema/cinema-backend/src/films/films.module.ts": [
           {
@@ -219,6 +219,34 @@
             "fileType": ".ts",
             "linesAdded": 1,
             "linesRemoved": 0,
+            "projectName": "cinema",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-03-31T10:16:30.799Z",
+            "fileName": "/Users/galymsakitzhan/Desktop/cinema/cinema-backend/src/films/entities/film.entity.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "cinema",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-03-31T10:17:49.178Z",
+            "fileName": "/Users/galymsakitzhan/Desktop/cinema/cinema-backend/src/films/entities/film.entity.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 4,
             "projectName": "cinema",
             "content": {
               "added": [],
@@ -560,6 +588,20 @@
             },
             "duration": 2,
             "language": "ts"
+          },
+          {
+            "timestamp": "2026-03-31T10:16:56.427Z",
+            "fileName": "/Users/galymsakitzhan/Desktop/cinema/cinema-backend/src/films/dto/create-film.dto.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "cinema",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ],
         "/Users/galymsakitzhan/Desktop/cinema/cinema-backend/src/films/films.service.ts": [
@@ -611,6 +653,20 @@
             "fileType": ".ts",
             "linesAdded": 0,
             "linesRemoved": 6,
+            "projectName": "cinema",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-03-31T10:17:20.261Z",
+            "fileName": "/Users/galymsakitzhan/Desktop/cinema/cinema-backend/src/films/films.service.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "cinema",
             "content": {
               "added": [],
@@ -759,6 +815,34 @@
             "fileType": ".ts",
             "linesAdded": 10,
             "linesRemoved": 0,
+            "projectName": "cinema",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-03-31T10:16:43.624Z",
+            "fileName": "/Users/galymsakitzhan/Desktop/cinema/cinema-backend/src/films/dto/update-film.dto.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "cinema",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-03-31T10:16:51.295Z",
+            "fileName": "/Users/galymsakitzhan/Desktop/cinema/cinema-backend/src/films/dto/update-film.dto.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 3,
             "projectName": "cinema",
             "content": {
               "added": [],
