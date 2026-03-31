@@ -2,9 +2,9 @@
   "date": "2026-03-31",
   "projects": {
     "cinema": {
-      "totalLinesAdded": 355,
-      "totalLinesRemoved": 27,
-      "totalActiveTime": 72,
+      "totalLinesAdded": 376,
+      "totalLinesRemoved": 32,
+      "totalActiveTime": 76,
       "files": {
         "/Users/galymsakitzhan/Desktop/cinema/cinema-backend/src/films/films.module.ts": [
           {
@@ -168,6 +168,34 @@
             },
             "duration": 1,
             "language": "ts"
+          },
+          {
+            "timestamp": "2026-03-31T10:11:11.402Z",
+            "fileName": "/Users/galymsakitzhan/Desktop/cinema/cinema-backend/src/schedule/schedule.service.ts",
+            "fileType": ".ts",
+            "linesAdded": 13,
+            "linesRemoved": 0,
+            "projectName": "cinema",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-03-31T10:11:27.613Z",
+            "fileName": "/Users/galymsakitzhan/Desktop/cinema/cinema-backend/src/schedule/schedule.service.ts",
+            "fileType": ".ts",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "cinema",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
           }
         ],
         "/Users/galymsakitzhan/Desktop/cinema/cinema-backend/src/films/entities/film.entity.ts": [
@@ -227,6 +255,48 @@
               "removed": []
             },
             "duration": 3,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-03-31T10:10:30.875Z",
+            "fileName": "/Users/galymsakitzhan/Desktop/cinema/cinema-backend/src/schedule/dto/create-schedule.dto.ts",
+            "fileType": ".ts",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "cinema",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-03-31T10:10:42.900Z",
+            "fileName": "/Users/galymsakitzhan/Desktop/cinema/cinema-backend/src/schedule/dto/create-schedule.dto.ts",
+            "fileType": ".ts",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "cinema",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-03-31T10:11:00.008Z",
+            "fileName": "/Users/galymsakitzhan/Desktop/cinema/cinema-backend/src/schedule/dto/create-schedule.dto.ts",
+            "fileType": ".ts",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "cinema",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "ts"
           }
         ],
