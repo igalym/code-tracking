@@ -2,9 +2,9 @@
   "date": "2026-03-31",
   "projects": {
     "cinema": {
-      "totalLinesAdded": 105,
+      "totalLinesAdded": 175,
       "totalLinesRemoved": 3,
-      "totalActiveTime": 22,
+      "totalActiveTime": 26,
       "files": {
         "/Users/galymsakitzhan/Desktop/cinema/cinema-backend/src/films/films.module.ts": [
           {
@@ -199,6 +199,38 @@
               "removed": []
             },
             "duration": 3,
+            "language": "ts"
+          }
+        ],
+        "/Users/galymsakitzhan/Desktop/cinema/cinema-backend/src/hall/hall.controller.ts": [
+          {
+            "timestamp": "2026-03-31T06:33:45.859Z",
+            "fileName": "/Users/galymsakitzhan/Desktop/cinema/cinema-backend/src/hall/hall.controller.ts",
+            "fileType": ".ts",
+            "linesAdded": 35,
+            "linesRemoved": 0,
+            "projectName": "cinema",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "ts"
+          }
+        ],
+        "/Users/galymsakitzhan/Desktop/cinema/cinema-backend/src/films/films.controller.ts": [
+          {
+            "timestamp": "2026-03-31T06:34:22.165Z",
+            "fileName": "/Users/galymsakitzhan/Desktop/cinema/cinema-backend/src/films/films.controller.ts",
+            "fileType": ".ts",
+            "linesAdded": 35,
+            "linesRemoved": 0,
+            "projectName": "cinema",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "ts"
           }
         ]
