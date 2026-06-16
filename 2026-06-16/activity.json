@@ -2,7 +2,7 @@
   "date": "2026-06-16",
   "projects": {
     "cinema 3": {
-      "totalLinesAdded": 84,
+      "totalLinesAdded": 138,
       "totalLinesRemoved": 3,
       "totalActiveTime": 6,
       "files": {
@@ -122,6 +122,22 @@
             },
             "duration": 1,
             "language": "json"
+          }
+        ],
+        "/Users/galymsakitzhan/Desktop/cinema 3/cinema-backend/src/app.module.ts": [
+          {
+            "timestamp": "2026-06-16T09:27:52.987Z",
+            "fileName": "/Users/galymsakitzhan/Desktop/cinema 3/cinema-backend/src/app.module.ts",
+            "fileType": ".ts",
+            "linesAdded": 54,
+            "linesRemoved": 0,
+            "projectName": "cinema 3",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
           }
         ]
       },
