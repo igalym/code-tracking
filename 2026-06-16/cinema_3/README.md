@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2067                                          |
+| **Lines Added** (➕)   | 2135                                          |
 | **Lines Removed** (➖) | 18                                        |
-| **Net Change** (↕)    | 2049                |
-| **Active Time** (⌚)   | 12 minutes |
+| **Net Change** (↕)    | 2117                |
+| **Active Time** (⌚)   | 17 minutes |
 
 
 ## Modified Files
@@ -19,6 +19,12 @@
 - **expense.component.html** (+403, -15)
 - **expense.service.ts** (+67, -0)
 - **expense.component.css** (+892, -0)
+- **expense-report.entity.ts** (+17, -0)
+- **create-report.dto.ts** (+6, -0)
+- **save-report.dto.ts** (+7, -0)
+- **create-category.dto.ts** (+6, -0)
+- **expense-entry.entity.ts** (+18, -0)
+- **expense-category.entity.ts** (+14, -0)
 
 ## Visualizations
 
@@ -27,7 +33,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ts" : 731
+".ts" : 799
 ".json" : 44
 ".html" : 418
 ".css" : 892
@@ -42,7 +48,8 @@ title Coding activity by hour (count of changes)
 "12h" : 6
 "14h" : 1
 "15h" : 8
+"16h" : 6
 ```
 
 
-> **Last Updated:** 16.06.2026, 15:57:36
+> **Last Updated:** 16.06.2026, 16:07:36
