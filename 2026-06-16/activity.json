@@ -2,9 +2,9 @@
   "date": "2026-06-16",
   "projects": {
     "cinema 3": {
-      "totalLinesAdded": 2135,
+      "totalLinesAdded": 2138,
       "totalLinesRemoved": 18,
-      "totalActiveTime": 17,
+      "totalActiveTime": 20,
       "files": {
         "/Users/galymsakitzhan/Desktop/cinema 3/cinema-frontend/src/app/api.config.ts": [
           {
@@ -181,6 +181,20 @@
               "removed": []
             },
             "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-06-16T11:08:05.743Z",
+            "fileName": "/Users/galymsakitzhan/Desktop/cinema 3/cinema-frontend/src/app/pages/expense/expense.component.ts",
+            "fileType": ".ts",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "cinema 3",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "ts"
           }
         ],
