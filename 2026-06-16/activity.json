@@ -2,9 +2,9 @@
   "date": "2026-06-16",
   "projects": {
     "cinema 3": {
-      "totalLinesAdded": 138,
-      "totalLinesRemoved": 3,
-      "totalActiveTime": 6,
+      "totalLinesAdded": 2053,
+      "totalLinesRemoved": 18,
+      "totalActiveTime": 11,
       "files": {
         "/Users/galymsakitzhan/Desktop/cinema 3/cinema-frontend/src/app/api.config.ts": [
           {
@@ -138,6 +138,98 @@
             },
             "duration": 0,
             "language": "ts"
+          }
+        ],
+        "/Users/galymsakitzhan/Desktop/cinema 3/cinema-frontend/src/app/pages/expense/expense.component.ts": [
+          {
+            "timestamp": "2026-06-16T10:40:08.808Z",
+            "fileName": "/Users/galymsakitzhan/Desktop/cinema 3/cinema-frontend/src/app/pages/expense/expense.component.ts",
+            "fileType": ".ts",
+            "linesAdded": 538,
+            "linesRemoved": 0,
+            "projectName": "cinema 3",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
+          },
+          {
+            "timestamp": "2026-06-16T10:40:09.663Z",
+            "fileName": "/Users/galymsakitzhan/Desktop/cinema 3/cinema-frontend/src/app/pages/expense/expense.component.ts",
+            "fileType": ".ts",
+            "linesAdded": 25,
+            "linesRemoved": 0,
+            "projectName": "cinema 3",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/galymsakitzhan/Desktop/cinema 3/cinema-frontend/src/app/pages/expense/expense.component.html": [
+          {
+            "timestamp": "2026-06-16T10:40:20.900Z",
+            "fileName": "/Users/galymsakitzhan/Desktop/cinema 3/cinema-frontend/src/app/pages/expense/expense.component.html",
+            "fileType": ".html",
+            "linesAdded": 393,
+            "linesRemoved": 0,
+            "projectName": "cinema 3",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          },
+          {
+            "timestamp": "2026-06-16T10:40:21.751Z",
+            "fileName": "/Users/galymsakitzhan/Desktop/cinema 3/cinema-frontend/src/app/pages/expense/expense.component.html",
+            "fileType": ".html",
+            "linesAdded": 0,
+            "linesRemoved": 15,
+            "projectName": "cinema 3",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "html"
+          }
+        ],
+        "/Users/galymsakitzhan/Desktop/cinema 3/cinema-frontend/src/app/pages/expense/expense.service.ts": [
+          {
+            "timestamp": "2026-06-16T10:40:28.176Z",
+            "fileName": "/Users/galymsakitzhan/Desktop/cinema 3/cinema-frontend/src/app/pages/expense/expense.service.ts",
+            "fileType": ".ts",
+            "linesAdded": 67,
+            "linesRemoved": 0,
+            "projectName": "cinema 3",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ts"
+          }
+        ],
+        "/Users/galymsakitzhan/Desktop/cinema 3/cinema-frontend/src/app/pages/expense/expense.component.css": [
+          {
+            "timestamp": "2026-06-16T10:40:29.906Z",
+            "fileName": "/Users/galymsakitzhan/Desktop/cinema 3/cinema-frontend/src/app/pages/expense/expense.component.css",
+            "fileType": ".css",
+            "linesAdded": 892,
+            "linesRemoved": 0,
+            "projectName": "cinema 3",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "css"
           }
         ]
       },
