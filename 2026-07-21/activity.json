@@ -35,7 +35,7 @@
       "averageChangeSize": 18
     },
     "BUDJET_BACK": {
-      "totalLinesAdded": 22289,
+      "totalLinesAdded": 22339,
       "totalLinesRemoved": 0,
       "totalActiveTime": 2,
       "files": {
@@ -69,6 +69,22 @@
             },
             "duration": 2,
             "language": "py"
+          }
+        ],
+        "/Users/galymsakitzhan/Documents/GitHub/BUDJET_BACK/BUDJET_BACK/requirements.txt": [
+          {
+            "timestamp": "2026-07-21T05:10:47.913Z",
+            "fileName": "/Users/galymsakitzhan/Documents/GitHub/BUDJET_BACK/BUDJET_BACK/requirements.txt",
+            "fileType": ".txt",
+            "linesAdded": 50,
+            "linesRemoved": 0,
+            "projectName": "BUDJET_BACK",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "txt"
           }
         ]
       },
